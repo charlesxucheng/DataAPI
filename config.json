@@ -1,0 +1,7 @@
+[
+  {
+    "path": "/users/:id",
+    "sql": "SELECT * FROM users WHERE id = :id",
+    "params": ["id"]
+  }
+]
